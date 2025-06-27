@@ -1,4 +1,4 @@
-# original is the original doc all in one
+# VPC Creation with Terraform
 
 # main.tf
 Creates a VPC in AWS with:
