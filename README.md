@@ -19,3 +19,5 @@ creates public/private sg
 2. when connected to the public ec2, run:
     1. ```ssh -i /dev/null user@private-ec2-ip```
 
+![alt text](diagram.png)
+(Made with Brainboard)
